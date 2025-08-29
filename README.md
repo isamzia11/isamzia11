@@ -1,14 +1,41 @@
-- 👋 Hi, I’m @isamzia11
-- 👀 I’m interested in ...Flutter
-- 🌱 I’m currently learning ...whatever i can
-- 💞️ I’m looking to collaborate on ...flutter projects
-- 📫 How to reach me ...thorough my linkedin : www.linkedin.com/in/isam-zia-5b7a28282
+ <h1 align="center">Hi 👋, I'm Isam Zia</h1>
+
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: isamzia091@gmail.com
 
 
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...just code!
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/isamzia11">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
 
-<!---
-isamzia11/isamzia11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <a href="https://www.instagram.com/code_with_isam?igsh=aGJmMHpmZ2cxZzdr&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="http://linkedin.com/in/isam-zia-5b7a28282">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,discord,)](https://skillicons.dev)
+
+
+![Isam Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=isamzia11&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isamzia11&theme=dark) 
+
+
+
+
+
+
+
+<br>
+⭐️ From [isamzia11](https://github.com/isamzia11)
